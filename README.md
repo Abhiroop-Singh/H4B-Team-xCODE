@@ -21,7 +21,7 @@ Visit our website directly using this link: https://sleepy-fortress-49178.heroku
 
 - [@Abhiroop Singh](https://github.com/Abhiroop-Singh)
 - [@Achintya Mishra](https://github.com/achintyamishra01)
-- [@Harsh Dutta Tewari](https://github.com/Abhiroop-Singh)
-- [@Tanya Arora](https://github.com/Abhiroop-Singh)
+- [@Harsh Dutta Tewari](https://github.com/Harsh-Tewari)
+- [@Tanya Arora](https://github.com/tanyaa-arora)
 
 
