@@ -5,9 +5,7 @@ Our prototype offers a platform where one can find all the details of all import
 
 ## Deployment
 
-Visit our website directly using this link:
-
-https://sleepy-fortress-49178.herokuapp.com/
+Visit our website directly using this link: https://sleepy-fortress-49178.herokuapp.com/
 
 
 
