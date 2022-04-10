@@ -13,7 +13,6 @@ Visit our website directly using this link: https://sleepy-fortress-49178.heroku
 
 - Easy Navigation
 - One Stop Solution
-- Feasible Solution
 - Attractive UI/UX 
 
 
